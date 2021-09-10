@@ -1,3 +1,6 @@
+//Okay I think this was also freshman year?? Not sure though. Also I think the way timing works is that 0000 is midnight, and then the first two numbers
+//are the hour in 24 hour time, and the second two numbers are the minutes in minutes
+
 var colours={'red':'f44336','deep-orange':'FF5722','orange':'FF9800','amber':'FFC107','yellow':'FFEB3B','lime':'CDDC39','light-green':'8BC34A','green':'4CAF50','teal':'009688','cyan':'00BCD4','light-blue':'03A9F4','blue':'2196F3','indigo':'3F51B5','deep-purple':'673AB7','purple':'9C27B0','pink':'E91E63','white':'FFFFFF','grey':'9E9E9E','blue-grey':'607D8B','black':'000000','brown':'795548'},
 blacktext={yellow:true,white:true,"blue-grey lighten-4":true,"blue-grey lighten-3":true},
 options,
