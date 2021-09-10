@@ -1,3 +1,4 @@
+//this was the freshman year schedule
 export const normalSchedules = [
   null,
   [
